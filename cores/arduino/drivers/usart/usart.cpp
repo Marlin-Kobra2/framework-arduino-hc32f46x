@@ -1,5 +1,5 @@
 #include <hc32_ddl.h>
-#include "Usart.h"
+#include "usart.h"
 #include "core_hooks.h"
 #include "core_debug.h"
 #include "yield.h"

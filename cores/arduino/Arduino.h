@@ -70,7 +70,7 @@ void loop( void ) ;
 #endif
 #include "delay.h"
 #ifdef __cplusplus
-#include "drivers/usart/Usart.h"
+#include "drivers/usart/usart.h"
 #endif
 
 #include "wiring_digital.h"
